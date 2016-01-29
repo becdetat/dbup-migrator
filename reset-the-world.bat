@@ -1,0 +1,1 @@
+@powershell ./reset-the-world.ps1
